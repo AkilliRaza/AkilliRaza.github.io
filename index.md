@@ -6,15 +6,7 @@ title: Home
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">💻 A Passionate Full Stack Developer from Pakistan</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akilliraza&label=Profile%20views&color=0e75b6&style=flat" alt="akilliraza" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=akilliraza&theme=onedark&row=1&column=7" alt="Trophies" />
-  </a>
-</p>
 
 <hr />
 
