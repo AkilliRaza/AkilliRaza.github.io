@@ -4,3 +4,4 @@ theme: jekyll-theme-slate
 markdown: kramdown
 permalink: pretty
 show_downloads: false
+logo: /assets/images/ali-raza-profile.png
