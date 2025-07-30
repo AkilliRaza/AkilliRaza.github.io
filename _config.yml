@@ -1,3 +1,6 @@
 title: Ali Raza
-description: Full Stack Engineer and Cloud Developer
+description: Full Stack Engineer | AI & Cloud Developer | IoT Specialist
 theme: jekyll-theme-slate
+markdown: kramdown
+permalink: pretty
+show_downloads: false
