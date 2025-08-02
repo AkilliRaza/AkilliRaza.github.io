@@ -5,7 +5,7 @@ const routes = {
     <h1 align="center">Hi 👋, I'm Ali Raza</h1>
     <h3 align="center">💻 A Passionate Full Stack Developer from Pakistan</h3>
     <div align="center">
-      <img src="/assets/images/ali-raza-profile.png" alt="Ali Raza" style="width: 120px; border-radius: 50%; margin: 20px 0;">
+      <img src="/assets/images/ali-raza-profile.png" alt="Ali Raza" class="profile-pic">
     </div>
   `,
   about: `
