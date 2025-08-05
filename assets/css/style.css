@@ -3,8 +3,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  background: #f4f4f4;
-  color: #333;
+  background: #f2ecec;
+  color: #0d0d0d;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -15,8 +15,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 2rem;
-  background: #ffffff;
+  padding: 0.5rem 3rem;
+  background: #190303;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   position: sticky;
   top: 0;
@@ -35,13 +35,13 @@ nav {
   height: 50px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #00e0ff;
+  border: 2px solid #02ddf9;
 }
 
 .nav-name {
   font-size: 1.2rem;
   font-weight: 600;
-  color: #222;
+  color: #ffffff; /* <-- Ensure visible on dark bg */
 }
 
 /* Right Side Links */
@@ -52,7 +52,7 @@ nav {
 
 .nav-right a {
   font-weight: 500;
-  color: #333;
+  color: #dddddd;
   position: relative;
   text-decoration: none;
   transition: color 0.3s;
@@ -93,20 +93,20 @@ main {
 /* Headings */
 h1 {
   font-size: 2.5rem;
-  color: #00e0ff;
+  color: #130a49;
   text-align: center;
 }
 
 h2 {
   font-size: 1.8rem;
-  color: #00e0ff;
+  color: #130a49;
   margin-bottom: 1rem;
 }
 
 h3 {
   font-size: 1.2rem;
   text-align: center;
-  color: #666;
+  color: #161616;
 }
 
 /* Lists & Links */
@@ -129,13 +129,13 @@ ul li::before {
 }
 
 a {
-  color: #ff9900;
+  color: #cbcbca;
   text-decoration: none;
   transition: color 0.3s;
 }
 
 a:hover {
-  color: #ffcc00;
+  color: #531ee6;
 }
 
 /* Blockquote */
