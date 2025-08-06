@@ -173,3 +173,59 @@ blockquote {
     font-size: 1.5rem;
   }
 }
+
+.certificates-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.certificate-group {
+  text-align: center;
+}
+
+.group-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.group-header h2 {
+  font-size: 1.6rem;
+  color: #0d0d0d;
+  margin: 0;
+}
+
+.certificate-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.certificate-row img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.certificate-row img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+hr {
+  width: 90%;
+  border: 1px solid #ccc;
+}
+
+.mr-top-0 {
+  margin-top: 0px;
+}
+
+.mr-top--5 {
+  margin-top: -50px;
+}
